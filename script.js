@@ -4,7 +4,7 @@ const prompts = [
         title: 'Brainstorm',
         description: 'Explain a local festival from my region to a friend from a different part of the country.',
         content: `Explain a local festival from my region to a friend from a different part of the country.`,
-        externalLink: 'https://aiskillshouse.com/student/qr-mediator.html?uid=553&promptId=22'
+        externalLink: 'https://aiskillshouse.com/student/qr-mediator.html?uid=5586&promptId=22'
     },
 
 
@@ -14,21 +14,21 @@ const prompts = [
         title: 'Suggest',
         description: 'Suggest a fun way to track my spending that feels more like a story or game than a spreadsheet.',
         content: `Suggest a fun way to track my spending that feels more like a story or game than a spreadsheet.`,
-        externalLink: 'https://aiskillshouse.com/student/qr-mediator.html?uid=553&promptId=21'
+        externalLink: 'https://aiskillshouse.com/student/qr-mediator.html?uid=5586&promptId=21'
     },
     {
         id: 'prompt-3',
         title: 'fest',
         description: 'My college fest is coming up. Help me brainstorm 5 unique ideas for a stall or event that are low-cost but can attract a lot of Footfall',
         content: `My college fest is coming up. Help me brainstorm 5 unique ideas for a stall or event that are low-cost but can attract a lot of Footfall`,
-        externalLink: 'https://aiskillshouse.com/student/qr-mediator.html?uid=553&promptId=20'
+        externalLink: 'https://aiskillshouse.com/student/qr-mediator.html?uid=5586&promptId=20'
     },
     {
         id: 'prompt-4',
         title: 'collage plan',
         description: 'I want to start a podcast for college students. Brainstorm 5 unique podcast concepts and suggest a name and a target audience for each.',
         content: `I want to start a podcast for college students. Brainstorm 5 unique podcast concepts and suggest a name and a target audience for each.`,
-        externalLink: 'https://aiskillshouse.com/student/qr-mediator.html?uid=553&promptId=19'
+        externalLink: 'https://aiskillshouse.com/student/qr-mediator.html?uid=5586&promptId=19'
     },
  
                 {
@@ -36,18 +36,18 @@ const prompts = [
         title: 'study plan',
         description: 'Create a 7-day study plan for my upcoming final exams, include short breaks',
         content: `Create a 7-day study plan for my upcoming final exams, include short breaks`,
-        externalLink: 'https://aiskillshouse.com/student/qr-mediator.html?uid=553&promptId=18'
+        externalLink: 'https://aiskillshouse.com/student/qr-mediator.html?uid=5586&promptId=18'
     },
 
 ];
 // new code
 // Define your prompt links
 // const promptsn = [
-//     'https://aiskillshouse.com/student/qr-mediator.html?uid=553&promptId=18',
-//     'https://aiskillshouse.com/student/qr-mediator.html?uid=553&promptId=21',
-//     'https://aiskillshouse.com/student/qr-mediator.html?uid=553&promptId=20',
-//     'https://aiskillshouse.com/student/qr-mediator.html?uid=553&promptId=19',
-//     'https://aiskillshouse.com/student/qr-mediator.html?uid=553&promptId=22'
+//     'https://aiskillshouse.com/student/qr-mediator.html?uid=5586&promptId=18',
+//     'https://aiskillshouse.com/student/qr-mediator.html?uid=5586&promptId=21',
+//     'https://aiskillshouse.com/student/qr-mediator.html?uid=5586&promptId=20',
+//     'https://aiskillshouse.com/student/qr-mediator.html?uid=5586&promptId=19',
+//     'https://aiskillshouse.com/student/qr-mediator.html?uid=5586&promptId=22'
 // ];
 
 // // Function to create top notification
@@ -116,11 +116,11 @@ const prompts = [
 
 
 // const promptsn = [
-//   'https://aiskillshouse.com/student/qr-mediator.html?uid=553&promptId=22',
-//   'https://aiskillshouse.com/student/qr-mediator.html?uid=553&promptId=21',
-//   'https://aiskillshouse.com/student/qr-mediator.html?uid=553&promptId=20',
-//   'https://aiskillshouse.com/student/qr-mediator.html?uid=553&promptId=19',
-//   'https://aiskillshouse.com/student/qr-mediator.html?uid=553&promptId=18'
+//   'https://aiskillshouse.com/student/qr-mediator.html?uid=5586&promptId=22',
+//   'https://aiskillshouse.com/student/qr-mediator.html?uid=5586&promptId=21',
+//   'https://aiskillshouse.com/student/qr-mediator.html?uid=5586&promptId=20',
+//   'https://aiskillshouse.com/student/qr-mediator.html?uid=5586&promptId=19',
+//   'https://aiskillshouse.com/student/qr-mediator.html?uid=5586&promptId=18'
 // ];
 
 // // Create top bar notification
@@ -225,11 +225,11 @@ const prompts = [
 
 
 const promptsn = [
-  'https://aiskillshouse.com/student/qr-mediator.html?uid=553&promptId=22',
-  'https://aiskillshouse.com/student/qr-mediator.html?uid=553&promptId=21',
-  'https://aiskillshouse.com/student/qr-mediator.html?uid=553&promptId=20',
-  'https://aiskillshouse.com/student/qr-mediator.html?uid=553&promptId=19',
-  'https://aiskillshouse.com/student/qr-mediator.html?uid=553&promptId=18'
+  'https://aiskillshouse.com/student/qr-mediator.html?uid=5586&promptId=22',
+  'https://aiskillshouse.com/student/qr-mediator.html?uid=5586&promptId=21',
+  'https://aiskillshouse.com/student/qr-mediator.html?uid=5586&promptId=20',
+  'https://aiskillshouse.com/student/qr-mediator.html?uid=5586&promptId=19',
+  'https://aiskillshouse.com/student/qr-mediator.html?uid=5586&promptId=18'
 ];
 
 // Create top bar notification
